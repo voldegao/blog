@@ -33,8 +33,11 @@ paginate_path: "/page:num/"
 # Build settings
 #theme: jekyll-theme-tactile
 theme: jekyll-theme-persephone
-layout: default
-comments: true
+comment:
+  enabled: true
+  provider: disqus
+  disqus:
+    name: https-voldegao-github-io-blog
 theme_setting:
 #   # The slides count in the slides layout. Default is 4.
 #   slides_count: 5
