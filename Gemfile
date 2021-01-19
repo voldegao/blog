@@ -31,6 +31,6 @@ end
 # Performance-booster for watching directories on Windows
 
 
- gem "jekyll-theme-persephone"
- gem 'jekyll-seo-tag'
- gem "jekyll-paginate"
+#gem "jekyll-theme-persephone"
+gem 'jekyll-seo-tag'
+gem "jekyll-paginate"
