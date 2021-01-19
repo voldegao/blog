@@ -31,7 +31,7 @@ paginate: 1
 permalink: "/:year-:month-:day/:title"
 paginate_path: "/page:num/"
 # Build settings
-theme: jekyll-theme-persephone
+theme: jekyll-theme-tactile
 theme_setting:
 #   # The slides count in the slides layout. Default is 4.
 #   slides_count: 5
