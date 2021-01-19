@@ -22,7 +22,7 @@ title: JSlog Blog
 email: azri.hamza7@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A very informative blog about Javascript and its Technologies (Nodejs,Jquery,Vuejs,Reactjs...).
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "http://jslog.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
