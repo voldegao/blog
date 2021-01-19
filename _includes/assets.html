@@ -3,7 +3,7 @@
 {%- if "chapter,post,page" contains page.layout -%}
 {%- if site.theme_setting.code or page.code -%}
 <link rel="stylesheet" href="{{ site.baseurl"/assets/css/tomorrow.css" | relative_url }}" />
-<script src="{{ site.baseurl"/assets/js/highlight.js" | relative_url }}"></script>
+<script src="{{"/assets/js/highlight.js" | relative_url }}"></script>
 {%- endif -%}
 {%- if site.theme_setting.math or page.math -%}
 <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
