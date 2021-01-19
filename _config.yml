@@ -27,7 +27,7 @@ url: "http://jslog.github.io/blog/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
 github_username:  jekyll
 
-paginate: 2
+paginate: 1
 permalink: "/:year-:month-:day/:title"
 paginate_path: "/page:num/"
 # Build settings
