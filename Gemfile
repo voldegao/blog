@@ -18,7 +18,8 @@ gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
+  gem 'jekyll-seo-tag'
+  gem "jekyll-paginate"
  
 end
 
@@ -33,5 +34,3 @@ end
 
 
 
-gem 'jekyll-seo-tag'
-gem "jekyll-paginate"
